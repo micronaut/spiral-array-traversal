@@ -1,0 +1,14 @@
+{
+  "name": "spiral_array_traversal",
+  "version": "1.0.0",
+  "description": "Print a given matrix in spiral form",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -t 8000 ./test/matrixTraversalSpec.js"
+  },
+  "author": "Eric Danowski",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
