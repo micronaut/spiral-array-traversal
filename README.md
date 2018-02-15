@@ -5,8 +5,12 @@ Spiral Array Traversal
 ======================
 Spiral Array Traversal is a simple JavaScript module created and maintained by Eric Danowski (https://github.com/micronaut).
 
-Usage
--------
+## Installation
+
+  `npm install @emdanowski/spiral-array-traversal`
+
+## Usage
+
 ```js
 let { traverse } = require('../src/matrixTraversal');
 
@@ -19,6 +23,5 @@ will return the following:
 */
 ````
 
-License
--------
+## License
 Spiral Array Traversal is licensed under the MIT License.
