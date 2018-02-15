@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/micronaut/spiral_array_traversal.svg?branch=master)](https://travis-ci.org/micronaut/spiral_array_traversal)
-[![Coverage Status](https://coveralls.io/repos/github/micronaut/spiral_array_traversal/badge.svg?branch=master)](https://coveralls.io/github/micronaut/spiral_array_traversal?branch=master)
+[![Build Status](https://travis-ci.org/micronaut/spiral_array_traversal.svg?branch=master)](https://travis-ci.org/micronaut/spiral-array-traversal)
+[![Coverage Status](https://coveralls.io/repos/github/micronaut/spiral_array_traversal/badge.svg?branch=master)](https://coveralls.io/github/micronaut/spiral-array-traversal?branch=master)
 
 Spiral Array Traversal
 ======================

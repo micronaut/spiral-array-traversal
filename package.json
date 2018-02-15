@@ -1,6 +1,6 @@
 {
-  "name": "spiral_array_traversal",
-  "version": "1.0.1",
+  "name": "spiral-array-traversal",
+  "version": "1.0.2",
   "description": "Print a given matrix in spiral form",
   "scripts": {
     "test": "./node_modules/.bin/mocha -t 8000 ./test/matrixTraversalSpec.js",
