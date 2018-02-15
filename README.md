@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/micronaut/spiral_array_traversal.svg?branch=master)](https://travis-ci.org/micronaut/spiral-array-traversal)
-[![Coverage Status](https://coveralls.io/repos/github/micronaut/spiral_array_traversal/badge.svg?branch=master)](https://coveralls.io/github/micronaut/spiral-array-traversal?branch=master)
+[![Build Status](https://travis-ci.org/micronaut/spiral-array-traversal.svg?branch=master)](https://travis-ci.org/micronaut/spiral-array-traversal)
+[![Coverage Status](https://coveralls.io/repos/github/micronaut/spiral-array-traversal/badge.svg?branch=master)](https://coveralls.io/github/micronaut/spiral-array-traversal?branch=master)
 
 Spiral Array Traversal
 ======================
-Spiral Array Traversal is a simple JavaScript module created and maintained by Eric Danowski (https://github.com/micronaut).
+Spiral Array Traversal is a simple JavaScript module created and maintained by [Eric Danowski](https://github.com/micronaut).
 
 ## Installation
 
