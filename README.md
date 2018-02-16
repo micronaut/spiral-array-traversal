@@ -14,7 +14,11 @@ Spiral Array Traversal is a simple JavaScript module created and maintained by [
 ```js
 let { traverse } = require('@emdanowski/spiral-array-traversal');
 
-let arr = [["1", "2", "3"], ["4", "5", "6"], ["7", "8", "9"]];
+let arr = [
+            ["1", "2", "3"], 
+            ["4", "5", "6"], 
+            ["7", "8", "9"]
+          ];
 let result = traverse(arr);
 
 /*
