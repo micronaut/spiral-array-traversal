@@ -1,7 +1,11 @@
 {
   "name": "@emdanowski/spiral-array-traversal",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Print a given matrix in spiral form",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/micronaut/spiral-array-traversal"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha -t 8000 ./test/matrixTraversalSpec.js",
     "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
