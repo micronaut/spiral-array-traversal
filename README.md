@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/micronaut/spiral-array-traversal.svg?branch=master)](https://travis-ci.org/micronaut/spiral-array-traversal)
 [![Coverage Status](https://coveralls.io/repos/github/micronaut/spiral-array-traversal/badge.svg?branch=master)](https://coveralls.io/github/micronaut/spiral-array-traversal?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/micronaut/spiral-array-traversal/badge.svg?targetFile=package.json)](https://snyk.io/test/github/micronaut/spiral-array-traversal?targetFile=package.json)
 
 Spiral Array Traversal
 ======================

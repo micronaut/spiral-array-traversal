@@ -1,6 +1,6 @@
 {
   "name": "@emdanowski/spiral-array-traversal",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Print a given matrix in spiral form",
   "repository" : {
     "type" : "git",
